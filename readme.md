@@ -7,12 +7,12 @@ Built a Python Bank from a tutorial Code Nust
 
 Learning with a video created by Code with Josh 4 Pillars of OOP
 
-                4 pillars of OOP
+4 pillars of OOP
 
--Encapsulation   (wrapping up your data, controlling access to them)
--Inheritance     (inherting data from another class)
--Polymorphism    (An object can have many form "think cloning")
--Abstraction     (SHowing only the essential features)
+-Encapsulation   (wrapping up your data, controlling access to them)  /n
+-Inheritance     (inherting data from another class)  /n
+-Polymorphism    (An object can have many form "think cloning")  /n
+-Abstraction     (SHowing only the essential features)  /n
 
 **********************************
 * Property = Variable in a class *
