@@ -5,7 +5,7 @@ Built a Python Bank from a tutorial Code Nust
 
 # Day 2 of 100 days of coding (OOP) 
 
-Learning with a video created by Code with Josh 4 Pillars of OOP
+Learning with a video created by Code with Josh 4 Pillars of OOP <br>
 Also building a better readme and using markdown
 
 4 pillars of OOP
