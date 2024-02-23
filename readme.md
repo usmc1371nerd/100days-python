@@ -37,3 +37,9 @@ on my project https://github.com/usmc1371nerd/python-banking I created the datab
 leanred alot about different ways to connect my db vs how the applications run. Made many mistakes such as
 Class user: not capitlized and I deleted (db.model) in my models.py spent painfully 2 hours of messing around to figure it out. I will now move forward with creating the front end of the app. Trying to create the backend first and then the frontend. 
 
+# Day 7 of 100 days of coding (python)
+
+I didnt do anything so adding a day to my 100 days..
+
+# Day 8 of 100 days of coding (python)
+add some html templates to my project and referenced an old project to build out a auth.py
